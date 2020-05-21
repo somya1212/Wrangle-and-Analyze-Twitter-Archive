@@ -8,11 +8,11 @@ The real world, I have assessed here is the tweet archive of Twitter user @dog_r
 
 ## Sources :
 
-I have gathered data from three different sources which id mentioned in the jupyter notebook of this repository.
+I have gathered data from three different sources which I have mentioned in the jupyter notebook of this repository.
 
 ## Requirements:
 
-You need to be able to work in a Jupyter Notebook on your computer. 
+You need to work in a Jupyter Notebook on your computer. 
 
 The following packages (libraries) need to be installed. You can install these packages via conda or pip.
 - pandas
